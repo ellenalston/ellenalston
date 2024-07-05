@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm currently working on pre-work for TechElevator
+I'm currently learning how to code in JavaScript and use GitHub
+I am also a board-certified music therapist
 
 <!--
 **ellenalston/ellenalston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
