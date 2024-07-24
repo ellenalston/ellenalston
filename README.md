@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm currently working on pre-work for TechElevator
+I'm currently a student at Tech Elevator
 
-I'm currently learning how to code in JavaScript and use GitHub
+Currently attending a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. 
 
 I am also a board-certified music therapist
 
