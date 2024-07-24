@@ -1,7 +1,5 @@
 ## Hi there 👋
-I'm currently a student at Tech Elevator
-
-Currently attending a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. 
+I am currently attending a 14-week full-stack coding bootcamp at Tech Elevator learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. 
 
 I am also a board-certified music therapist
 
