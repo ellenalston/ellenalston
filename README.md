@@ -1,7 +1,13 @@
 ## Hi there 👋
-I am currently attending a 14-week full-stack coding bootcamp at Tech Elevator learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. 
 
-I am also a board-certified music therapist
+Hi , my name is Ellen Alston, and my pronouns are she/her. I am currently attending a 14-week full-stack coding bootcamp at Tech Elevator learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. 
+
+Before this, I spent a almost as a practicing music therapist, using the power of music to help patients achieve their goals. Music has been a central part of my life for as long as I can remember, and it has always been my primary medium for connection and my career. For a long time, I didn't explore other fields, especially in science and technology, but I realized it was time for a change.
+
+I was ready to make a career shift into technology because I wanted to challenge myself in new ways and contribute to a field with a broad and lasting impact on society. As a woman, entering the tech industry is particularly important to me. I want to be part of a movement that brings diverse perspectives to the table and create more inclusive environments.
+
+Software development intrigued me because it shares similarities with music in terms of language and theory. The skills I’ve honed through music therapy—empathy, communication, and creativity—are just as essential in tech, and I’m eager to apply them in this new context.
+As I look to the future, I am searching for my place in the world of software development. I believe that my determination and grit, coupled with my passion for innovation will guide me as I navigate this exciting path.
 
 <!--
 **ellenalston/ellenalston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
