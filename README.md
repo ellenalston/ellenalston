@@ -1,25 +1,16 @@
 ## Hi there 👋
 
-Hi , my name is Ellen Alston, and my pronouns are she/her. I recently graduated a 14-week full-stack coding bootcamp at Tech Elevator learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. 
+Hi, I'm Ellen Antes Alston! I recently graduated from Tech Elevator's rigorous 14-week full-stack coding bootcamp, where I gained 800+ hours of hands-on development experience, building dynamic, web-based software systems using Java.  
 
-Before this, I spent a almost as a practicing music therapist, using the power of music to help patients achieve their goals. Music has been a central part of my life for as long as I can remember, and it has always been my primary medium for connection and my career. For a long time, I didn't explore other fields, especially in science and technology, but I realized it was time for a change.
+Before transitioning into tech, I spent nearly a decade as a practicing board-certified music therapist, leveraging the transformative power of music to help patients achieve their goals. Music has always been at the core of who I am—it’s been my medium for connection and creativity throughout my life.  
 
-I was ready to make a career shift into technology because I wanted to challenge myself in new ways and contribute to a field with a broad and lasting impact on society. As a woman, entering the tech industry is particularly important to me. I want to be part of a movement that brings diverse perspectives to the table and create more inclusive environments.
+When I decided it was time for a change, I sought a field where I could combine my creative problem-solving, communication skills, and passion for innovation. Technology offered the perfect blend of challenge, impact, and opportunity.  
 
-Software development intrigued me because it shares similarities with music in terms of language and theory. The skills I’ve honed through music therapy—empathy, communication, and creativity—are just as essential in tech, and I’m eager to apply them in this new context.
-As I look to the future, I am searching for my place in the world of software development. I believe that my determination and grit, coupled with my passion for innovation will guide me as I navigate this exciting path.
+As a software developer, I’m excited to bring a unique perspective shaped by my background in music and healthcare. The parallels between music and coding—both rooted in language, structure, and theory—fascinate me, and I’m eager to channel the empathy and creativity I developed as a music therapist into building meaningful, user-focused solutions.  
 
-<!--
-**ellenalston/ellenalston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m particularly passionate about creating inclusive environments and bringing diverse perspectives to tech. As I step into this new chapter, I’m excited to contribute to innovative projects, collaborate with talented teams, and continue growing as a developer.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let’s Connect!  
+Feel free to explore my repositories, and if you’d like to collaborate or chat, don’t hesitate to reach out!  
