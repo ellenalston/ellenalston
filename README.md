@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi , my name is Ellen Alston, and my pronouns are she/her. I am currently attending a 14-week full-stack coding bootcamp at Tech Elevator learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. 
+Hi , my name is Ellen Alston, and my pronouns are she/her. I recently graduated a 14-week full-stack coding bootcamp at Tech Elevator learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. 
 
 Before this, I spent a almost as a practicing music therapist, using the power of music to help patients achieve their goals. Music has been a central part of my life for as long as I can remember, and it has always been my primary medium for connection and my career. For a long time, I didn't explore other fields, especially in science and technology, but I realized it was time for a change.
 
