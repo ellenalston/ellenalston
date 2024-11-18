@@ -10,7 +10,5 @@ As a software developer, I’m excited to bring a unique perspective shaped by m
 
 I’m particularly passionate about creating inclusive environments and bringing diverse perspectives to tech. As I step into this new chapter, I’m excited to contribute to innovative projects, collaborate with talented teams, and continue growing as a developer.  
 
----
-
 ### Let’s Connect!  
 Feel free to explore my repositories, and if you’d like to collaborate or chat, don’t hesitate to reach out!  
